@@ -1,3 +1,2 @@
 this a server commit
-this is a ec2-user commi
-add this line
+this is a ec2-user commit
