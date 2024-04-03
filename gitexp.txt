@@ -1,2 +1,3 @@
 hello this is for git study
 this is stage branch commit
+this line is updated
